@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "mpegts_lib",
+    "mpegts_tool",
+]
